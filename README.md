@@ -60,8 +60,8 @@ Since TF-IDF produces high-dimensional vectors, PCA reduces them to 2 components
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-clustering.git
-cd netflix-clustering
+git clone https://github.com/jiyasohail/Netflix_Content_Clustering.git
+cd Netflix_Content_Clustering
 ```
 
 ### 2. Install dependencies
@@ -74,8 +74,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Open `NetflixCluster.ipynb` in Jupyter or Google Colab and run all cells.
 
-> **Note:** The dataset path in the notebook is set to `/content/netflix_titles.csv.zip` (Google Colab). If running locally, update it to the local path of the file.
-
 ---
 
 ## 💡 Key Findings
@@ -86,4 +84,4 @@ Titles cluster naturally around broad content themes — action/thriller content
 
 ## 👩‍💼 Author
 
-**Jiya** — Computer Science Graduate & Data Enthusiast
+**Javariya Sohail** — Computer Science Graduate & Data Enthusiast
